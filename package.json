@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/bholloway/nginject-loader",
   "dependencies": {
-    "loader-utils": "^0.2.11",
+    "loader-utils": "^1.1.0",
     "nginject-migrate": "^0.0.1"
   }
 }
